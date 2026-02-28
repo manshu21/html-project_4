@@ -1,0 +1,34 @@
+/* universal margin zero */
+body {
+  margin: 0%;
+  padding: 0%;
+  border: none;
+}
+
+/* giving padding and marging to div container */
+
+section {
+  text-align: center;
+  height: auto;
+  margin: 15vh;
+}
+
+/* giving the styling to button */
+
+.btn {
+  background: linear-gradient(to right, #11998e, #38ef7d);
+  height: auto;
+  width: 45vw;
+  color: white;
+  font-size: 2rem;
+  border: 2px solid black;
+  border-radius: 2%;
+}
+
+/* giving the styling to image */
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid black;
+}
